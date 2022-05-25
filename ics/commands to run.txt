@@ -1,0 +1,10 @@
+for java files
+javac file_name.java
+java file_name
+
+
+for c++
+gcc -o output file_name.cpp
+./output
+
+
